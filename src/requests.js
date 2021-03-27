@@ -1,4 +1,4 @@
-const API_KEY = "fb1b62e46ee423a2296990384df4d220";
+const API_KEY = <your_api_key>  //your api key on themoviedb
 const LANGUAGE = "pt-BR";
 const BASE_IMG_URL = "https://image.tmdb.org/t/p/original";
 
